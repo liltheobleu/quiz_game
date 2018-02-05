@@ -148,7 +148,7 @@ var GameBoard = function (_React$Component4) {
         answer: 'Princess Leia'
       }, { // 4
         question: 'What planet do Wookiees come from?',
-        options: ['Tatooine', 'Kashyyk'],
+        options: ['Tatooine', 'Kashyyk', 'Naboo', 'Endor'],
         answer: 'Kashyyk'
       }, { // 5
         question: 'Darth Vader cut off hand of:',
