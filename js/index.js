@@ -135,29 +135,29 @@ var GameBoard = function (_React$Component4) {
       incorrect: 0,
       activeGame: true,
       questionsAnswer: [{ // 1
-        question: 'Who is Darth Vader?',
-        options: ["Jedi", "Sith", "Rebel", "Emperor"],
-        answer: "Sith"
+        question: 'Who is John John Florence?',
+        options: ["Skater", "Surfer ", "Dancer", "Football player"],
+        answer: "Surfer"
       }, { // 2
-        question: 'Who is Luke Skywalker’s dad?',
-        options: ['Boba Fett', 'Jango Fett', 'Anakin Skywalker', 'Emperor',5],
-        answer: 'Anakin Skywalker'
+        question: 'Who is Lil Pump ?',
+        options: ['Swimmer', 'Runner', 'Singer', 'President',5],
+        answer: 'Singer'
       }, { // 3
-        question: 'Who kills Jabba The Hutt?',
-        options: ['Luke Skywalker', 'Princess Leia', 'Han Solo', 'Darth Vader'],
-        answer: 'Princess Leia'
+        question: 'Who is Donald Trump?',
+        options: ['US President', 'Rugby player', 'Actor', 'Tennis player'],
+        answer: 'US President'
       }, { // 4
-        question: 'What planet do Wookiees come from?',
-        options: ['Tatooine', 'Kashyyk', 'Naboo', 'Endor'],
-        answer: 'Kashyyk'
+        question: 'Who is Rafael Nadal?',
+        options: ['Singer', 'Dancer', 'Actor', 'Tennis player'],
+        answer: 'Tennis player'
       }, { // 5
-        question: 'Darth Vader cut off hand of:',
-        options: ['Count Dooku', 'Mace Windu', 'Luke Skywalker', 'All of them'],
-        answer: 'All of them'
+        question: 'Who is Lionel Messi ?',
+        options: ['Swimmer', 'Prince of England', 'Football player', 'Cook'],
+        answer: 'Football player'
       }, { // 6
-        question: 'Who is the first person to say “May the Force be with you” in A New Hope',
-        options: ['Master Yoda', 'Luke Skywalker', 'Princess Leia', 'General Dodonna'],
-        answer: 'General Dodonna'
+        question: 'Vladimir Putin',
+        options: ['Rugby player', 'President of Russia', 'Scientist', 'Writer'],
+        answer: 'President of Russia'
       }]
     };
     return _this4;
