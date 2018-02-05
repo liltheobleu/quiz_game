@@ -137,7 +137,7 @@ var GameBoard = function (_React$Component4) {
       questionsAnswer: [{ // 1
         question: 'Who is John John Florence?',
         options: ["Skater", "Surfer ", "Dancer", "Football player"],
-        answer: "Surfer"
+        answer: "Surfer "
       }, { // 2
         question: 'Who is Lil Pump ?',
         options: ['Swimmer', 'Runner', 'Singer', 'President',5],
